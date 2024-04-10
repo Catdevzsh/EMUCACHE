@@ -1,9 +1,4 @@
-# EMUCACHE
-1.0 4.9.24$
-markdown
-Copy code
-# EMUCACHE
-
+ 
 EMUCACHE is a utility for optimizing system performance on macOS.
 
 ## Installation
